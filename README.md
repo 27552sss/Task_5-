@@ -63,7 +63,7 @@ Interest Added: ₹35.0
 
 ## ✍️ Author
 
-- **Your Name:** _Replace this with your name_
+- **Priyansh Tyagi**
 - **Internship:** Java Developer Internship
 
 ---
